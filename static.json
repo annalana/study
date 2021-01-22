@@ -1,8 +1,7 @@
 {
   "headers": {
     "/*": {
-    "X-Author": "nastya_scherbedinskaya",
-    "Access-Control-Allow-Origin": "*"
+    "X-Author": "nastya_scherbedinskaya"
     }
   }
 }
