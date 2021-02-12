@@ -11,7 +11,8 @@
     },
     "/sample/": {
       "X-Author": "nastya_scherbedinskaya",
-      "Content-type": "text/plain; charset=UTF-8"
+      "Content-type": "text/plain; charset=UTF-8",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
